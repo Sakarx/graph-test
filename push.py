@@ -16,4 +16,4 @@ def load():
 for i in range(1):
     load()
 
-os.system("git push -f origin master")
+os.system("git push -f origin main")
